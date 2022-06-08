@@ -29,7 +29,7 @@ function Bidders() {
                     <tr>
                       <th>Id</th>
                       <th>Name</th>
-                      <th>Phone</th>
+                      <th>Phone No</th>
                       <th>Email Id</th>
                       <th>User Id</th>
                     </tr>
